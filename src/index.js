@@ -137,8 +137,8 @@ function loadMoreHandler( evt )
 
     } else
     {
-       let arrToRender = response.data.hits;
-       galleryRenderer(arrToRender);
+       response.data.hits;
+       galleryRenderer(response.data.hits);
        
     }
   
