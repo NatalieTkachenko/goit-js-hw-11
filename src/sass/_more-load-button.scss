@@ -1,0 +1,23 @@
+
+.load-more {
+width: 200px;
+
+display: flex;
+justify-content: center;
+
+padding: 10px;
+margin-left: auto;
+margin-right: auto;
+
+background-color: #6566ad;
+border: 0;
+border-radius: 4px;
+
+font-family: 'Nunito', sans-serif;
+font-size: 13px;
+font-style: bold;
+font-weight: 1000;
+color: white;
+
+visibility: hidden;
+}

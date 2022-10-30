@@ -1,0 +1,32 @@
+form {
+display: flex;
+justify-content: center;
+
+padding: 10px;
+
+background-color: #6566ad;
+
+
+} 
+
+input {
+width: 300px;
+
+font-family: 'Nunito', sans-serif;
+font-size: 13px;
+font-style: italic;
+font-weight: 1000;
+
+border: 0;
+border-radius: 2px;
+
+}
+
+.search-btn {
+width: 26px;
+height: 26px;
+}
+
+.search-icon {
+margin: auto;
+}
