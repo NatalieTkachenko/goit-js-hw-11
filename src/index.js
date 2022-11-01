@@ -61,7 +61,7 @@ function submitHandler( event )
 
     } else
     {
-       arrToRender = response.data.hits;
+      const arrToRender = response.data.hits;
 
        Notify.success(`Hooray! We found ${response.data.totalHits} images.`);
 
